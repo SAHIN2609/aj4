@@ -1,0 +1,4 @@
+v19 UI stability patch
+- Dark native preset selector CSS
+- Prepared Wah/MIDI control integration
+- UI state synchronization notes
